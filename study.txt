@@ -1,0 +1,4 @@
+maxlatitude=58.90,
+max longitude=1.80,
+min longitude=-5.6,
+min latitude=50.00

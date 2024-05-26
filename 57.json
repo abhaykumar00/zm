@@ -1,0 +1,4701 @@
+[
+  {
+    "legacy_id": 107854,
+    "uuid": "USBO5YX",
+    "coordinates": {
+      "latitude": 57.00041,
+      "longitude": -4.31716
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-27T12:00:18Z"
+  },
+  {
+    "legacy_id": 10135,
+    "uuid": "GCKR74U",
+    "coordinates": {
+      "latitude": 57.000389,
+      "longitude": -4.317163
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-07-21T13:41:00Z"
+  },
+  {
+    "legacy_id": 96934,
+    "uuid": "R1DCJKG",
+    "coordinates": {
+      "latitude": 57.059602,
+      "longitude": -4.118258
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2022-07-26T15:56:00Z"
+  },
+  {
+    "legacy_id": 67629,
+    "uuid": "YAIS8JK",
+    "coordinates": {
+      "latitude": 57.08057,
+      "longitude": -4.05455
+    },
+    "power": [
+      22000,
+      25000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-06-29T10:14:00Z"
+  },
+  {
+    "legacy_id": 14725,
+    "uuid": "BVY6J75",
+    "coordinates": {
+      "latitude": 57.00556,
+      "longitude": -3.39852
+    },
+    "power": [
+      22000,
+      25000,
+      43000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-06-04T11:26:00Z"
+  },
+  {
+    "legacy_id": 53833,
+    "uuid": "5X0UWC7",
+    "coordinates": {
+      "latitude": 57.004979,
+      "longitude": -3.395791
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2020-12-02T12:14:00Z"
+  },
+  {
+    "legacy_id": 101583,
+    "uuid": "TUZWIYX",
+    "coordinates": {
+      "latitude": 57.050429,
+      "longitude": -3.040383
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2022-07-29T14:41:00Z"
+  },
+  {
+    "legacy_id": 14724,
+    "uuid": "5S6UDGT",
+    "coordinates": {
+      "latitude": 57.04847,
+      "longitude": -3.04111
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-06-04T11:23:00Z"
+  },
+  {
+    "legacy_id": 267320,
+    "uuid": "V1BRWCZ",
+    "coordinates": {
+      "latitude": 57.050707,
+      "longitude": -3.049376
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2024-03-07T10:02:00Z"
+  },
+  {
+    "legacy_id": 253543,
+    "uuid": "7OYPFXG",
+    "coordinates": {
+      "latitude": 57.057585,
+      "longitude": -3.056771
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-11-22T14:35:00Z"
+  },
+  {
+    "legacy_id": 252560,
+    "uuid": "201PPOR",
+    "coordinates": {
+      "latitude": 57.045669,
+      "longitude": -3.045122
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-11-17T10:50:41Z"
+  },
+  {
+    "legacy_id": 51442,
+    "uuid": "13BPQ6N",
+    "coordinates": {
+      "latitude": 57.07663,
+      "longitude": -2.89416
+    },
+    "power": [
+      7000,
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-10-22T15:08:00Z"
+  },
+  {
+    "legacy_id": 255140,
+    "uuid": "BRVKNJH",
+    "coordinates": {
+      "latitude": 57.072436,
+      "longitude": -2.80439
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-11-28T12:10:00Z"
+  },
+  {
+    "legacy_id": 5866,
+    "uuid": "B0APMVG",
+    "coordinates": {
+      "latitude": 57.07603,
+      "longitude": -2.77758
+    },
+    "power": [
+      22000,
+      25000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2016-01-29T09:17:00Z"
+  },
+  {
+    "legacy_id": 262185,
+    "uuid": "63NGCTZ",
+    "coordinates": {
+      "latitude": 57.070976,
+      "longitude": -2.786618
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-01-29T10:36:00Z"
+  },
+  {
+    "legacy_id": 21891,
+    "uuid": "NWYT4CI",
+    "coordinates": {
+      "latitude": 57.064838,
+      "longitude": -2.650853
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-02-19T10:51:00Z"
+  },
+  {
+    "legacy_id": 56100,
+    "uuid": "F78JTY5",
+    "coordinates": {
+      "latitude": 57.06162,
+      "longitude": -2.53488
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-01-22T10:06:00Z"
+  },
+  {
+    "legacy_id": 10451,
+    "uuid": "KRB5E6G",
+    "coordinates": {
+      "latitude": 57.08549,
+      "longitude": -2.505439
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-08-09T12:09:00Z"
+  },
+  {
+    "legacy_id": 14721,
+    "uuid": "2BFPRA6",
+    "coordinates": {
+      "latitude": 57.05096,
+      "longitude": -2.499941
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-06-04T11:22:00Z"
+  },
+  {
+    "legacy_id": 33978,
+    "uuid": "YBFSG5L",
+    "coordinates": {
+      "latitude": 57.06024,
+      "longitude": -2.48023
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-09-19T14:41:00Z"
+  },
+  {
+    "legacy_id": 264689,
+    "uuid": "3FJMFUL",
+    "coordinates": {
+      "latitude": 57.060281,
+      "longitude": -2.465127
+    },
+    "power": [
+      22000,
+      75000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-02-13T10:40:52Z"
+  },
+  {
+    "legacy_id": 28599,
+    "uuid": "KES2CJ9",
+    "coordinates": {
+      "latitude": 57.090046,
+      "longitude": -2.259046
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-06-03T12:18:00Z"
+  },
+  {
+    "legacy_id": 140435,
+    "uuid": "8X2H6BP",
+    "coordinates": {
+      "latitude": 57.06681,
+      "longitude": -2.13164
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-04-07T14:44:00Z"
+  },
+  {
+    "legacy_id": 15509,
+    "uuid": "WUTESQD",
+    "coordinates": {
+      "latitude": 57.07896,
+      "longitude": -2.12491
+    },
+    "power": [
+      11000
+    ],
+    "category": "WORK",
+    "created_at": "2018-08-01T14:34:00Z"
+  },
+  {
+    "legacy_id": 182150,
+    "uuid": "1TBSTAZ",
+    "coordinates": {
+      "latitude": 57.064709,
+      "longitude": -2.142978
+    },
+    "power": [
+      22000,
+      60000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-09-18T11:53:19Z"
+  },
+  {
+    "legacy_id": 33013,
+    "uuid": "SWMR4YK",
+    "coordinates": {
+      "latitude": 57.03368,
+      "longitude": -2.17981
+    },
+    "power": [
+      7200
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-08-21T15:42:00Z"
+  },
+  {
+    "legacy_id": 108592,
+    "uuid": "XHGP83T",
+    "coordinates": {
+      "latitude": 57.1468,
+      "longitude": -4.68194
+    },
+    "power": [
+      11000,
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-05T12:04:38Z"
+  },
+  {
+    "legacy_id": 54974,
+    "uuid": "M0TUQOL",
+    "coordinates": {
+      "latitude": 57.14344,
+      "longitude": -4.68212
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-12-21T10:46:00Z"
+  },
+  {
+    "legacy_id": 53096,
+    "uuid": "GUX9M35",
+    "coordinates": {
+      "latitude": 57.116838,
+      "longitude": -3.920574
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-11-24T16:53:00Z"
+  },
+  {
+    "legacy_id": 12688,
+    "uuid": "HP3WJUA",
+    "coordinates": {
+      "latitude": 57.11683,
+      "longitude": -3.920635
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-03-05T11:17:00Z"
+  },
+  {
+    "legacy_id": 165790,
+    "uuid": "DIHR1GF",
+    "coordinates": {
+      "latitude": 57.182861,
+      "longitude": -3.832233
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-08-25T16:24:18Z"
+  },
+  {
+    "legacy_id": 10904,
+    "uuid": "B5UZ704",
+    "coordinates": {
+      "latitude": 57.189762,
+      "longitude": -3.836165
+    },
+    "power": [
+      120000,
+      150000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-09-29T15:17:00Z"
+  },
+  {
+    "legacy_id": 190064,
+    "uuid": "D2YG2P2",
+    "coordinates": {
+      "latitude": 57.18663,
+      "longitude": -3.829137
+    },
+    "power": [
+      150000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-10-23T11:54:12Z"
+  },
+  {
+    "legacy_id": 165578,
+    "uuid": "WQGHNHN",
+    "coordinates": {
+      "latitude": 57.18288,
+      "longitude": -3.832119
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-08-25T10:51:18Z"
+  },
+  {
+    "legacy_id": 160080,
+    "uuid": "J9UNMEN",
+    "coordinates": {
+      "latitude": 57.183,
+      "longitude": -3.8335
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-08-08T15:22:06Z"
+  },
+  {
+    "legacy_id": 117658,
+    "uuid": "9I2DGP9",
+    "coordinates": {
+      "latitude": 57.19063,
+      "longitude": -3.82848
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-01T16:59:26Z"
+  },
+  {
+    "legacy_id": 131570,
+    "uuid": "RGN459F",
+    "coordinates": {
+      "latitude": 57.162242,
+      "longitude": -3.864457
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-02-27T14:59:00Z"
+  },
+  {
+    "legacy_id": 296875,
+    "uuid": "3CEE5PE",
+    "coordinates": {
+      "latitude": 57.199128,
+      "longitude": -3.810616
+    },
+    "power": [
+      22080
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-05-14T10:44:15Z"
+  },
+  {
+    "legacy_id": 260853,
+    "uuid": "1Q6KMXZ",
+    "coordinates": {
+      "latitude": 57.198466,
+      "longitude": -3.816075
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-01-19T11:24:36Z"
+  },
+  {
+    "legacy_id": 119104,
+    "uuid": "IGDSPJG",
+    "coordinates": {
+      "latitude": 57.16481,
+      "longitude": -3.67687
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-08T12:20:14Z"
+  },
+  {
+    "legacy_id": 96251,
+    "uuid": "DKMTTLE",
+    "coordinates": {
+      "latitude": 57.128815,
+      "longitude": -2.858372
+    },
+    "power": [
+      7360
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-07-11T10:03:10Z"
+  },
+  {
+    "legacy_id": 262325,
+    "uuid": "1GJSY3E",
+    "coordinates": {
+      "latitude": 57.128821,
+      "longitude": -2.858077
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-01-29T13:36:01Z"
+  },
+  {
+    "legacy_id": 103448,
+    "uuid": "JSDH3H0",
+    "coordinates": {
+      "latitude": 57.103091,
+      "longitude": -2.622649
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2022-08-09T15:45:24Z"
+  },
+  {
+    "legacy_id": 1564,
+    "uuid": "7QFI9DB",
+    "coordinates": {
+      "latitude": 57.106102,
+      "longitude": -2.621529
+    },
+    "power": [
+      3000,
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2013-05-29T00:00:00Z"
+  },
+  {
+    "legacy_id": 95950,
+    "uuid": "WGO1R6M",
+    "coordinates": {
+      "latitude": 57.188849,
+      "longitude": -2.577656
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2022-06-24T14:50:00Z"
+  },
+  {
+    "legacy_id": 124750,
+    "uuid": "WE7PXHV",
+    "coordinates": {
+      "latitude": 57.196115,
+      "longitude": -2.203469
+    },
+    "power": [
+      75000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-12-22T12:00:50Z"
+  },
+  {
+    "legacy_id": 117553,
+    "uuid": "6TJO9PG",
+    "coordinates": {
+      "latitude": 57.14987,
+      "longitude": -2.22383
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T16:24:40Z"
+  },
+  {
+    "legacy_id": 37865,
+    "uuid": "G1IBHRQ",
+    "coordinates": {
+      "latitude": 57.15514,
+      "longitude": -2.27727
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-11-27T14:14:00Z"
+  },
+  {
+    "legacy_id": 12004,
+    "uuid": "HVY4AJM",
+    "coordinates": {
+      "latitude": 57.192553,
+      "longitude": -2.212375
+    },
+    "power": [
+      7000,
+      22000,
+      25000,
+      43000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-01-26T10:55:00Z"
+  },
+  {
+    "legacy_id": 156200,
+    "uuid": "7DI2ULL",
+    "coordinates": {
+      "latitude": 57.145443,
+      "longitude": -2.291493
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2023-07-21T15:30:26Z"
+  },
+  {
+    "legacy_id": 116554,
+    "uuid": "6VBGK29",
+    "coordinates": {
+      "latitude": 57.111448,
+      "longitude": -2.231444
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-26T11:48:48Z"
+  },
+  {
+    "legacy_id": 82667,
+    "uuid": "WMAT4KP",
+    "coordinates": {
+      "latitude": 57.149026,
+      "longitude": -2.274994
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-12-23T10:15:00Z"
+  },
+  {
+    "legacy_id": 61054,
+    "uuid": "IHZBUVG",
+    "coordinates": {
+      "latitude": 57.14987,
+      "longitude": -2.22383
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-03-17T14:34:00Z"
+  },
+  {
+    "legacy_id": 128560,
+    "uuid": "P6UNFYT",
+    "coordinates": {
+      "latitude": 57.154445,
+      "longitude": -2.27634
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-02-03T12:23:00Z"
+  },
+  {
+    "legacy_id": 107214,
+    "uuid": "PDFNAHK",
+    "coordinates": {
+      "latitude": 57.110967,
+      "longitude": -2.202033
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-08T15:16:00Z"
+  },
+  {
+    "legacy_id": 103311,
+    "uuid": "QDWOYVB",
+    "coordinates": {
+      "latitude": 57.154942,
+      "longitude": -2.273942
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2022-08-09T14:24:12Z"
+  },
+  {
+    "legacy_id": 60159,
+    "uuid": "8062PGD",
+    "coordinates": {
+      "latitude": 57.145359,
+      "longitude": -2.28621
+    },
+    "power": [
+      7000
+    ],
+    "category": "WORK",
+    "created_at": "2021-03-05T14:49:00Z"
+  },
+  {
+    "legacy_id": 19788,
+    "uuid": "2U3K1YR",
+    "coordinates": {
+      "latitude": 57.199978,
+      "longitude": -2.20502
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-11-27T16:22:00Z"
+  },
+  {
+    "legacy_id": 297362,
+    "uuid": "8V803EY",
+    "coordinates": {
+      "latitude": 57.148582,
+      "longitude": -2.224202
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-05-21T14:53:02Z"
+  },
+  {
+    "legacy_id": 297082,
+    "uuid": "3HTVIAO",
+    "coordinates": {
+      "latitude": 57.192826,
+      "longitude": -2.212264
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-05-17T08:55:09Z"
+  },
+  {
+    "legacy_id": 268802,
+    "uuid": "327KELJ",
+    "coordinates": {
+      "latitude": 57.148279,
+      "longitude": -2.268362
+    },
+    "power": [
+      350000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-03-22T15:06:00Z"
+  },
+  {
+    "legacy_id": 259168,
+    "uuid": "U5MKH26",
+    "coordinates": {
+      "latitude": 57.148146,
+      "longitude": -2.266952
+    },
+    "power": [
+      350000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-01-02T14:15:44Z"
+  },
+  {
+    "legacy_id": 26739,
+    "uuid": "2V751P6",
+    "coordinates": {
+      "latitude": 57.17783,
+      "longitude": -2.150006
+    },
+    "power": [
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-04-30T15:42:00Z"
+  },
+  {
+    "legacy_id": 122349,
+    "uuid": "ZDOQM7K",
+    "coordinates": {
+      "latitude": 57.180375,
+      "longitude": -2.147164
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-12-01T10:21:00Z"
+  },
+  {
+    "legacy_id": 120604,
+    "uuid": "O8XZCAM",
+    "coordinates": {
+      "latitude": 57.134769,
+      "longitude": -2.157213
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-21T14:25:01Z"
+  },
+  {
+    "legacy_id": 3288,
+    "uuid": "9RVBU0G",
+    "coordinates": {
+      "latitude": 57.140303,
+      "longitude": -2.171882
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-04-02T00:00:00Z"
+  },
+  {
+    "legacy_id": 3148,
+    "uuid": "3XHFBZS",
+    "coordinates": {
+      "latitude": 57.132614,
+      "longitude": -2.102678
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2013-12-16T00:00:00Z"
+  },
+  {
+    "legacy_id": 193648,
+    "uuid": "RP5VGJR",
+    "coordinates": {
+      "latitude": 57.145879,
+      "longitude": -2.108858
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-11-13T16:20:13Z"
+  },
+  {
+    "legacy_id": 186522,
+    "uuid": "AKLBSPP",
+    "coordinates": {
+      "latitude": 57.19888,
+      "longitude": -2.183624
+    },
+    "power": [
+      50000,
+      150000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-10-03T15:29:14Z"
+  },
+  {
+    "legacy_id": 149499,
+    "uuid": "D4WOF0A",
+    "coordinates": {
+      "latitude": 57.14561,
+      "longitude": -2.1107
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-06-05T10:06:43Z"
+  },
+  {
+    "legacy_id": 140778,
+    "uuid": "M44FZDW",
+    "coordinates": {
+      "latitude": 57.1426,
+      "longitude": -2.1493
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-04-11T11:48:34Z"
+  },
+  {
+    "legacy_id": 140772,
+    "uuid": "N5TNIVZ",
+    "coordinates": {
+      "latitude": 57.1412,
+      "longitude": -2.1472
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-04-11T11:35:41Z"
+  },
+  {
+    "legacy_id": 120631,
+    "uuid": "AL1PC40",
+    "coordinates": {
+      "latitude": 57.17989,
+      "longitude": -2.11033
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2022-11-21T15:08:02Z"
+  },
+  {
+    "legacy_id": 119131,
+    "uuid": "7WJSLWF",
+    "coordinates": {
+      "latitude": 57.156591,
+      "longitude": -2.161276
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-08T16:39:41Z"
+  },
+  {
+    "legacy_id": 107770,
+    "uuid": "WRNCBEJ",
+    "coordinates": {
+      "latitude": 57.163923,
+      "longitude": -2.153281
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-23T16:09:28Z"
+  },
+  {
+    "legacy_id": 107338,
+    "uuid": "QYSNHKQ",
+    "coordinates": {
+      "latitude": 57.117022,
+      "longitude": -2.178744
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-13T16:54:33Z"
+  },
+  {
+    "legacy_id": 82724,
+    "uuid": "3QJRZBA",
+    "coordinates": {
+      "latitude": 57.14961,
+      "longitude": -2.171054
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-12-24T11:09:00Z"
+  },
+  {
+    "legacy_id": 26128,
+    "uuid": "5WV7HRC",
+    "coordinates": {
+      "latitude": 57.16912,
+      "longitude": -2.12257
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-04-17T12:34:00Z"
+  },
+  {
+    "legacy_id": 19215,
+    "uuid": "S3ZGKVU",
+    "coordinates": {
+      "latitude": 57.18125,
+      "longitude": -2.11901
+    },
+    "power": [
+      11000
+    ],
+    "category": "WORK",
+    "created_at": "2018-10-18T15:45:00Z"
+  },
+  {
+    "legacy_id": 12679,
+    "uuid": "M3CL45P",
+    "coordinates": {
+      "latitude": 57.15697,
+      "longitude": -2.13649
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-03-05T09:49:00Z"
+  },
+  {
+    "legacy_id": 12010,
+    "uuid": "R8QZO20",
+    "coordinates": {
+      "latitude": 57.141549,
+      "longitude": -2.119715
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-01-26T14:46:00Z"
+  },
+  {
+    "legacy_id": 11277,
+    "uuid": "4TXK27P",
+    "coordinates": {
+      "latitude": 57.179284,
+      "longitude": -2.176232
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-11-08T11:59:00Z"
+  },
+  {
+    "legacy_id": 10119,
+    "uuid": "9X1OZ3I",
+    "coordinates": {
+      "latitude": 57.152954,
+      "longitude": -2.146977
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-07-17T14:16:00Z"
+  },
+  {
+    "legacy_id": 3283,
+    "uuid": "9K85UCQ",
+    "coordinates": {
+      "latitude": 57.18264,
+      "longitude": -2.13567
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-04-02T00:00:00Z"
+  },
+  {
+    "legacy_id": 3286,
+    "uuid": "9PVA5HZ",
+    "coordinates": {
+      "latitude": 57.159383,
+      "longitude": -2.142524
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-04-02T00:00:00Z"
+  },
+  {
+    "legacy_id": 3290,
+    "uuid": "9T87G1W",
+    "coordinates": {
+      "latitude": 57.12148,
+      "longitude": -2.10514
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-04-02T00:00:00Z"
+  },
+  {
+    "legacy_id": 148011,
+    "uuid": "ESEYXIO",
+    "coordinates": {
+      "latitude": 57.116067,
+      "longitude": -2.109516
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2023-05-16T15:30:49Z"
+  },
+  {
+    "legacy_id": 163504,
+    "uuid": "XCXTGPX",
+    "coordinates": {
+      "latitude": 57.109673,
+      "longitude": -2.092463
+    },
+    "power": [
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-08-17T16:32:46Z"
+  },
+  {
+    "legacy_id": 149417,
+    "uuid": "ALWM1PK",
+    "coordinates": {
+      "latitude": 57.137177,
+      "longitude": -2.096632
+    },
+    "power": [
+      50000,
+      150000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-06-01T16:16:13Z"
+  },
+  {
+    "legacy_id": 119110,
+    "uuid": "U1RSM1C",
+    "coordinates": {
+      "latitude": 57.15297,
+      "longitude": -2.08504
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-08T14:08:45Z"
+  },
+  {
+    "legacy_id": 76982,
+    "uuid": "TNFBDR0",
+    "coordinates": {
+      "latitude": 57.127538,
+      "longitude": -2.089599
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-10-27T09:54:00Z"
+  },
+  {
+    "legacy_id": 51410,
+    "uuid": "JYBIQG1",
+    "coordinates": {
+      "latitude": 57.11602,
+      "longitude": -2.08663
+    },
+    "power": [
+      22000,
+      44000
+    ],
+    "category": "WORK",
+    "created_at": "2020-10-22T10:19:00Z"
+  },
+  {
+    "legacy_id": 38222,
+    "uuid": "XA47W2V",
+    "coordinates": {
+      "latitude": 57.149489,
+      "longitude": -2.098547
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-12-13T09:45:00Z"
+  },
+  {
+    "legacy_id": 3084,
+    "uuid": "3TLUP6O",
+    "coordinates": {
+      "latitude": 57.15062,
+      "longitude": -2.09254
+    },
+    "power": [
+      7000,
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2013-12-16T00:00:00Z"
+  },
+  {
+    "legacy_id": 168386,
+    "uuid": "TJJ48LB",
+    "coordinates": {
+      "latitude": 57.150599,
+      "longitude": -2.095548
+    },
+    "power": [
+      22000,
+      60000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-09-04T10:53:12Z"
+  },
+  {
+    "legacy_id": 142230,
+    "uuid": "CGMJOUO",
+    "coordinates": {
+      "latitude": 57.106533,
+      "longitude": -2.097771
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-04-27T16:02:13Z"
+  },
+  {
+    "legacy_id": 130684,
+    "uuid": "Q50AOCI",
+    "coordinates": {
+      "latitude": 57.123699,
+      "longitude": -2.09075
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-02-15T15:32:00Z"
+  },
+  {
+    "legacy_id": 130671,
+    "uuid": "9SMET3G",
+    "coordinates": {
+      "latitude": 57.129803,
+      "longitude": -2.07146
+    },
+    "power": [
+      7200
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-02-15T15:26:00Z"
+  },
+  {
+    "legacy_id": 130660,
+    "uuid": "LMUY4KH",
+    "coordinates": {
+      "latitude": 57.106709,
+      "longitude": -2.09551
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-02-15T15:09:00Z"
+  },
+  {
+    "legacy_id": 130658,
+    "uuid": "RWD8AU2",
+    "coordinates": {
+      "latitude": 57.123259,
+      "longitude": -2.090226
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-02-15T15:06:00Z"
+  },
+  {
+    "legacy_id": 130628,
+    "uuid": "L4VGUB7",
+    "coordinates": {
+      "latitude": 57.123905,
+      "longitude": -2.089793
+    },
+    "power": [
+      7200
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-02-15T14:49:00Z"
+  },
+  {
+    "legacy_id": 130562,
+    "uuid": "6D14P8F",
+    "coordinates": {
+      "latitude": 57.125751,
+      "longitude": -2.097488
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-02-15T14:20:00Z"
+  },
+  {
+    "legacy_id": 107027,
+    "uuid": "AYIRXTU",
+    "coordinates": {
+      "latitude": 57.1495,
+      "longitude": -2.0952
+    },
+    "power": [
+      11000,
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-02T16:35:05Z"
+  },
+  {
+    "legacy_id": 56029,
+    "uuid": "4RXAUYP",
+    "coordinates": {
+      "latitude": 57.110318,
+      "longitude": -2.092522
+    },
+    "power": [
+      250000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-01-14T15:49:00Z"
+  },
+  {
+    "legacy_id": 51305,
+    "uuid": "QX9VFCA",
+    "coordinates": {
+      "latitude": 57.14489,
+      "longitude": -2.09154
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2020-10-20T14:14:00Z"
+  },
+  {
+    "legacy_id": 33281,
+    "uuid": "05QJZX4",
+    "coordinates": {
+      "latitude": 57.14364,
+      "longitude": -2.09874
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-09-02T16:14:00Z"
+  },
+  {
+    "legacy_id": 24688,
+    "uuid": "0Q4HF5J",
+    "coordinates": {
+      "latitude": 57.169774,
+      "longitude": -2.094814
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-04-10T14:51:00Z"
+  },
+  {
+    "legacy_id": 13671,
+    "uuid": "48UMX5I",
+    "coordinates": {
+      "latitude": 57.196494,
+      "longitude": -2.096617
+    },
+    "power": [
+      11000
+    ],
+    "category": "WORK",
+    "created_at": "2018-04-27T09:59:00Z"
+  },
+  {
+    "legacy_id": 10593,
+    "uuid": "O56IH03",
+    "coordinates": {
+      "latitude": 57.1077,
+      "longitude": -2.0909
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "WORK",
+    "created_at": "2017-08-10T12:18:00Z"
+  },
+  {
+    "legacy_id": 3285,
+    "uuid": "9MVWKU3",
+    "coordinates": {
+      "latitude": 57.181464,
+      "longitude": -2.099576
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-04-02T00:00:00Z"
+  },
+  {
+    "legacy_id": 2764,
+    "uuid": "ALD3W6R",
+    "coordinates": {
+      "latitude": 57.105969,
+      "longitude": -2.095919
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2014-07-29T00:00:00Z"
+  },
+  {
+    "legacy_id": 3185,
+    "uuid": "AKZM8BY",
+    "coordinates": {
+      "latitude": 57.152803,
+      "longitude": -2.098384
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2014-07-25T00:00:00Z"
+  },
+  {
+    "legacy_id": 266621,
+    "uuid": "BKO1MNW",
+    "coordinates": {
+      "latitude": 57.280338,
+      "longitude": -5.521898
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-03-01T15:45:59Z"
+  },
+  {
+    "legacy_id": 117562,
+    "uuid": "Q3SCRUM",
+    "coordinates": {
+      "latitude": 57.22051,
+      "longitude": -5.41746
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T16:39:48Z"
+  },
+  {
+    "legacy_id": 51947,
+    "uuid": "SFIYE98",
+    "coordinates": {
+      "latitude": 57.22051,
+      "longitude": -5.41746
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-10-30T13:18:00Z"
+  },
+  {
+    "legacy_id": 15009,
+    "uuid": "ME0K98D",
+    "coordinates": {
+      "latitude": 57.2149,
+      "longitude": -4.61764
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-06-22T14:32:00Z"
+  },
+  {
+    "legacy_id": 15613,
+    "uuid": "GOK50E4",
+    "coordinates": {
+      "latitude": 57.201703,
+      "longitude": -3.820051
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-08-07T16:28:00Z"
+  },
+  {
+    "legacy_id": 45615,
+    "uuid": "9B2R6SP",
+    "coordinates": {
+      "latitude": 57.24806,
+      "longitude": -3.76359
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-07-02T09:34:00Z"
+  },
+  {
+    "legacy_id": 78322,
+    "uuid": "WNXDYJO",
+    "coordinates": {
+      "latitude": 57.269862,
+      "longitude": -3.724005
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-11-03T10:31:00Z"
+  },
+  {
+    "legacy_id": 260857,
+    "uuid": "89IONU7",
+    "coordinates": {
+      "latitude": 57.289419,
+      "longitude": -3.797718
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-01-19T11:34:39Z"
+  },
+  {
+    "legacy_id": 19655,
+    "uuid": "W8DLJHO",
+    "coordinates": {
+      "latitude": 57.28368,
+      "longitude": -3.69611
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-11-19T12:18:00Z"
+  },
+  {
+    "legacy_id": 3514,
+    "uuid": "FRBS0PW",
+    "coordinates": {
+      "latitude": 57.247809,
+      "longitude": -3.373314
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-06-10T00:00:00Z"
+  },
+  {
+    "legacy_id": 11786,
+    "uuid": "2TBN6C1",
+    "coordinates": {
+      "latitude": 57.250845,
+      "longitude": -3.37949
+    },
+    "power": [
+      3000,
+      25000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-01-18T17:06:00Z"
+  },
+  {
+    "legacy_id": 136471,
+    "uuid": "K6GJNYA",
+    "coordinates": {
+      "latitude": 57.2006,
+      "longitude": -3.2478
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-03-23T14:23:00Z"
+  },
+  {
+    "legacy_id": 53812,
+    "uuid": "PJ7I69W",
+    "coordinates": {
+      "latitude": 57.241578,
+      "longitude": -2.893143
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-12-01T14:09:00Z"
+  },
+  {
+    "legacy_id": 116797,
+    "uuid": "CIQVMPY",
+    "coordinates": {
+      "latitude": 57.232247,
+      "longitude": -2.714793
+    },
+    "power": [
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T11:51:46Z"
+  },
+  {
+    "legacy_id": 108340,
+    "uuid": "DFKZ0IO",
+    "coordinates": {
+      "latitude": 57.240163,
+      "longitude": -2.721577
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-30T16:45:06Z"
+  },
+  {
+    "legacy_id": 5865,
+    "uuid": "PV0W18F",
+    "coordinates": {
+      "latitude": 57.23219,
+      "longitude": -2.70047
+    },
+    "power": [
+      25000,
+      43000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2016-01-29T09:16:00Z"
+  },
+  {
+    "legacy_id": 108568,
+    "uuid": "9SH0QSS",
+    "coordinates": {
+      "latitude": 57.235555,
+      "longitude": -2.447033
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-05T11:28:57Z"
+  },
+  {
+    "legacy_id": 45361,
+    "uuid": "NLQRYHX",
+    "coordinates": {
+      "latitude": 57.284362,
+      "longitude": -2.401223
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-06-23T14:58:00Z"
+  },
+  {
+    "legacy_id": 67655,
+    "uuid": "UB407RT",
+    "coordinates": {
+      "latitude": 57.203921,
+      "longitude": -2.30367
+    },
+    "power": [
+      100000,
+      350000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-06-29T16:04:00Z"
+  },
+  {
+    "legacy_id": 51308,
+    "uuid": "2UW6KGT",
+    "coordinates": {
+      "latitude": 57.24318,
+      "longitude": -2.35083
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-10-20T14:19:00Z"
+  },
+  {
+    "legacy_id": 28401,
+    "uuid": "NVEAXMI",
+    "coordinates": {
+      "latitude": 57.2837,
+      "longitude": -2.3897
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-05-23T16:23:00Z"
+  },
+  {
+    "legacy_id": 28386,
+    "uuid": "9RUHGEI",
+    "coordinates": {
+      "latitude": 57.258219,
+      "longitude": -2.379828
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-05-23T16:20:00Z"
+  },
+  {
+    "legacy_id": 25029,
+    "uuid": "5OQ269W",
+    "coordinates": {
+      "latitude": 57.28708,
+      "longitude": -2.39456
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-04-16T11:01:00Z"
+  },
+  {
+    "legacy_id": 21529,
+    "uuid": "EVO7T3C",
+    "coordinates": {
+      "latitude": 57.25597,
+      "longitude": -2.37248
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-01-25T14:49:00Z"
+  },
+  {
+    "legacy_id": 9684,
+    "uuid": "JPUORH7",
+    "coordinates": {
+      "latitude": 57.285312,
+      "longitude": -2.376148
+    },
+    "power": [
+      22000,
+      25000,
+      43000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-05-22T14:17:00Z"
+  },
+  {
+    "legacy_id": 82721,
+    "uuid": "EF6KT5J",
+    "coordinates": {
+      "latitude": 57.28701,
+      "longitude": -2.376842
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-12-24T10:56:00Z"
+  },
+  {
+    "legacy_id": 1909,
+    "uuid": "ARUCBRC",
+    "coordinates": {
+      "latitude": 57.285387,
+      "longitude": -2.376216
+    },
+    "power": [
+      7000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2014-08-13T00:00:00Z"
+  },
+  {
+    "legacy_id": 87818,
+    "uuid": "A3R4QLY",
+    "coordinates": {
+      "latitude": 57.208821,
+      "longitude": -2.327254
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-03-01T15:52:00Z"
+  },
+  {
+    "legacy_id": 117625,
+    "uuid": "LIKL9TQ",
+    "coordinates": {
+      "latitude": 57.266259,
+      "longitude": -2.187975
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-01T12:17:06Z"
+  },
+  {
+    "legacy_id": 108625,
+    "uuid": "1ORJMDT",
+    "coordinates": {
+      "latitude": 57.266259,
+      "longitude": -2.187975
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-05T15:30:24Z"
+  },
+  {
+    "legacy_id": 12705,
+    "uuid": "XTSF5UH",
+    "coordinates": {
+      "latitude": 57.20566,
+      "longitude": -2.1924
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-03-05T12:27:00Z"
+  },
+  {
+    "legacy_id": 95011,
+    "uuid": "630NUP4",
+    "coordinates": {
+      "latitude": 57.21169,
+      "longitude": -2.196094
+    },
+    "power": [
+      7000
+    ],
+    "category": "WORK",
+    "created_at": "2022-05-24T11:49:00Z"
+  },
+  {
+    "legacy_id": 296191,
+    "uuid": "QT1PSGZ",
+    "coordinates": {
+      "latitude": 57.209984,
+      "longitude": -2.187712
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2024-05-03T14:17:00Z"
+  },
+  {
+    "legacy_id": 2130,
+    "uuid": "BRUAKMP",
+    "coordinates": {
+      "latitude": 57.33518,
+      "longitude": -4.48087
+    },
+    "power": [
+      25000,
+      43000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-04-20T00:00:00Z"
+  },
+  {
+    "legacy_id": 67165,
+    "uuid": "DX8RLBQ",
+    "coordinates": {
+      "latitude": 57.329264,
+      "longitude": -4.274174
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2021-06-17T11:34:00Z"
+  },
+  {
+    "legacy_id": 6802,
+    "uuid": "2FIJHQN",
+    "coordinates": {
+      "latitude": 57.34007,
+      "longitude": -4.00967
+    },
+    "power": [
+      44000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2016-05-04T15:34:00Z"
+  },
+  {
+    "legacy_id": 63562,
+    "uuid": "CLIOD5Y",
+    "coordinates": {
+      "latitude": 57.33303,
+      "longitude": -3.98937
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-05-10T15:09:00Z"
+  },
+  {
+    "legacy_id": 35106,
+    "uuid": "TP94Y5V",
+    "coordinates": {
+      "latitude": 57.333015,
+      "longitude": -3.98903
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-10-15T10:48:00Z"
+  },
+  {
+    "legacy_id": 75394,
+    "uuid": "8X49L2D",
+    "coordinates": {
+      "latitude": 57.330146,
+      "longitude": -3.613746
+    },
+    "power": [
+      3000
+    ],
+    "category": "WORK",
+    "created_at": "2021-09-30T11:30:00Z"
+  },
+  {
+    "legacy_id": 5529,
+    "uuid": "TC8SDIX",
+    "coordinates": {
+      "latitude": 57.33257,
+      "longitude": -3.60532
+    },
+    "power": [
+      43000,
+      44000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-11-24T13:41:00Z"
+  },
+  {
+    "legacy_id": 12734,
+    "uuid": "Z3HTISX",
+    "coordinates": {
+      "latitude": 57.341143,
+      "longitude": -3.517515
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-03-09T10:37:00Z"
+  },
+  {
+    "legacy_id": 116800,
+    "uuid": "B0LUMSD",
+    "coordinates": {
+      "latitude": 57.34295,
+      "longitude": -2.612289
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T11:53:29Z"
+  },
+  {
+    "legacy_id": 57308,
+    "uuid": "EO938TR",
+    "coordinates": {
+      "latitude": 57.33539,
+      "longitude": -2.31914
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-02-02T15:57:00Z"
+  },
+  {
+    "legacy_id": 19320,
+    "uuid": "845DVFN",
+    "coordinates": {
+      "latitude": 57.338386,
+      "longitude": -2.318144
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-10-29T16:38:00Z"
+  },
+  {
+    "legacy_id": 10763,
+    "uuid": "MXQTVFD",
+    "coordinates": {
+      "latitude": 57.351312,
+      "longitude": -2.313174
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-08-23T11:55:00Z"
+  },
+  {
+    "legacy_id": 28403,
+    "uuid": "4JKPYAD",
+    "coordinates": {
+      "latitude": 57.365701,
+      "longitude": -2.07284
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-05-23T16:23:00Z"
+  },
+  {
+    "legacy_id": 119230,
+    "uuid": "TBZEJM7",
+    "coordinates": {
+      "latitude": 57.367482,
+      "longitude": -2.041343
+    },
+    "power": [
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-10T11:53:10Z"
+  },
+  {
+    "legacy_id": 67641,
+    "uuid": "ALKENH7",
+    "coordinates": {
+      "latitude": 57.370305,
+      "longitude": -2.053233
+    },
+    "power": [
+      7000
+    ],
+    "category": "WORK",
+    "created_at": "2021-06-29T13:32:00Z"
+  },
+  {
+    "legacy_id": 13576,
+    "uuid": "LW19PUH",
+    "coordinates": {
+      "latitude": 57.370211,
+      "longitude": -2.053008
+    },
+    "power": [
+      7000
+    ],
+    "category": "WORK",
+    "created_at": "2018-04-24T16:16:00Z"
+  },
+  {
+    "legacy_id": 82793,
+    "uuid": "TJH9GPI",
+    "coordinates": {
+      "latitude": 57.368294,
+      "longitude": -2.043068
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-12-30T10:17:00Z"
+  },
+  {
+    "legacy_id": 108838,
+    "uuid": "INWZSSW",
+    "coordinates": {
+      "latitude": 57.426598,
+      "longitude": -5.455929
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-07T15:06:01Z"
+  },
+  {
+    "legacy_id": 102450,
+    "uuid": "RBKDU2O",
+    "coordinates": {
+      "latitude": 57.400357,
+      "longitude": -5.49096
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-08-05T15:14:35Z"
+  },
+  {
+    "legacy_id": 74260,
+    "uuid": "T7VPXZ1",
+    "coordinates": {
+      "latitude": 57.400234,
+      "longitude": -5.490749
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-09-07T14:34:00Z"
+  },
+  {
+    "legacy_id": 10798,
+    "uuid": "6CNRJD0",
+    "coordinates": {
+      "latitude": 57.400085,
+      "longitude": -4.680843
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-09-04T16:17:00Z"
+  },
+  {
+    "legacy_id": 51432,
+    "uuid": "SQOV7GH",
+    "coordinates": {
+      "latitude": 57.48198,
+      "longitude": -4.4643
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-10-22T14:51:00Z"
+  },
+  {
+    "legacy_id": 92416,
+    "uuid": "AKXCH15",
+    "coordinates": {
+      "latitude": 57.424104,
+      "longitude": -4.323944
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-04-26T14:22:00Z"
+  },
+  {
+    "legacy_id": 8171,
+    "uuid": "QRI5BCW",
+    "coordinates": {
+      "latitude": 57.482542,
+      "longitude": -4.300654
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2016-09-02T09:03:00Z"
+  },
+  {
+    "legacy_id": 148482,
+    "uuid": "NAUDBO6",
+    "coordinates": {
+      "latitude": 57.484558,
+      "longitude": -4.220807
+    },
+    "power": [
+      120000,
+      150000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-05-18T11:42:22Z"
+  },
+  {
+    "legacy_id": 131586,
+    "uuid": "ZZBKG2V",
+    "coordinates": {
+      "latitude": 57.44995,
+      "longitude": -4.218094
+    },
+    "power": [
+      50000,
+      75000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-03-02T15:18:14Z"
+  },
+  {
+    "legacy_id": 94953,
+    "uuid": "EDNHWAB",
+    "coordinates": {
+      "latitude": 57.452274,
+      "longitude": -4.250519
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-05-20T10:32:00Z"
+  },
+  {
+    "legacy_id": 86245,
+    "uuid": "VD3GCR6",
+    "coordinates": {
+      "latitude": 57.477049,
+      "longitude": -4.230606
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-02-10T09:52:00Z"
+  },
+  {
+    "legacy_id": 64495,
+    "uuid": "I72JWEG",
+    "coordinates": {
+      "latitude": 57.469675,
+      "longitude": -4.230795
+    },
+    "power": [
+      7000,
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-06-11T10:06:00Z"
+  },
+  {
+    "legacy_id": 51291,
+    "uuid": "LR5XIP4",
+    "coordinates": {
+      "latitude": 57.481723,
+      "longitude": -4.225422
+    },
+    "power": [
+      150000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-10-20T10:01:00Z"
+  },
+  {
+    "legacy_id": 48367,
+    "uuid": "YET5ZM6",
+    "coordinates": {
+      "latitude": 57.473439,
+      "longitude": -4.232697
+    },
+    "power": [
+      7000,
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-08-13T12:08:00Z"
+  },
+  {
+    "legacy_id": 168374,
+    "uuid": "EIEM7RB",
+    "coordinates": {
+      "latitude": 57.482029,
+      "longitude": -4.205879
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-09-04T10:32:19Z"
+  },
+  {
+    "legacy_id": 159148,
+    "uuid": "ZIMNQVD",
+    "coordinates": {
+      "latitude": 57.4798,
+      "longitude": -4.2202
+    },
+    "power": [
+      22000,
+      25000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-08-04T14:55:08Z"
+  },
+  {
+    "legacy_id": 150208,
+    "uuid": "Z6SXPUD",
+    "coordinates": {
+      "latitude": 57.484543,
+      "longitude": -4.21411
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-06-14T14:35:34Z"
+  },
+  {
+    "legacy_id": 94190,
+    "uuid": "NZAGWJW",
+    "coordinates": {
+      "latitude": 57.489681,
+      "longitude": -4.234527
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2022-05-12T14:36:09Z"
+  },
+  {
+    "legacy_id": 52793,
+    "uuid": "TAFH7WJ",
+    "coordinates": {
+      "latitude": 57.46096,
+      "longitude": -4.26899
+    },
+    "power": [
+      22000,
+      51000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-11-20T11:23:00Z"
+  },
+  {
+    "legacy_id": 30705,
+    "uuid": "XSA19UD",
+    "coordinates": {
+      "latitude": 57.46619,
+      "longitude": -4.27282
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2019-07-15T14:37:00Z"
+  },
+  {
+    "legacy_id": 1963,
+    "uuid": "Z67MAVQ",
+    "coordinates": {
+      "latitude": 57.47382,
+      "longitude": -4.2293
+    },
+    "power": [
+      25000,
+      43000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2014-12-29T00:00:00Z"
+  },
+  {
+    "legacy_id": 132008,
+    "uuid": "W7IDEO9",
+    "coordinates": {
+      "latitude": 57.476729,
+      "longitude": -4.215397
+    },
+    "power": [
+      11000
+    ],
+    "category": "HOME",
+    "created_at": "2023-03-14T09:09:00Z"
+  },
+  {
+    "legacy_id": 34172,
+    "uuid": "UBX6MY1",
+    "coordinates": {
+      "latitude": 57.49525,
+      "longitude": -4.21662
+    },
+    "power": [
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-09-26T14:05:00Z"
+  },
+  {
+    "legacy_id": 12032,
+    "uuid": "DMS912W",
+    "coordinates": {
+      "latitude": 57.476884,
+      "longitude": -4.224722
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-01-29T17:25:00Z"
+  },
+  {
+    "legacy_id": 3399,
+    "uuid": "5NVAX6D",
+    "coordinates": {
+      "latitude": 57.475913,
+      "longitude": -4.228381
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-02-10T00:00:00Z"
+  },
+  {
+    "legacy_id": 295851,
+    "uuid": "63Y10MS",
+    "coordinates": {
+      "latitude": 57.48245,
+      "longitude": -4.2308
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-04-26T14:32:41Z"
+  },
+  {
+    "legacy_id": 265677,
+    "uuid": "4VXCY0W",
+    "coordinates": {
+      "latitude": 57.463057,
+      "longitude": -4.237444
+    },
+    "power": [
+      15000,
+      22000,
+      35000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-02-16T15:29:31Z"
+  },
+  {
+    "legacy_id": 258016,
+    "uuid": "D46EYHC",
+    "coordinates": {
+      "latitude": 57.481079,
+      "longitude": -4.21757
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-12-15T10:36:49Z"
+  },
+  {
+    "legacy_id": 257904,
+    "uuid": "L1REGTN",
+    "coordinates": {
+      "latitude": 57.481376,
+      "longitude": -4.226082
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-12-14T15:43:53Z"
+  },
+  {
+    "legacy_id": 253298,
+    "uuid": "PZKRCD5",
+    "coordinates": {
+      "latitude": 57.476729,
+      "longitude": -4.215397
+    },
+    "power": [
+      11000
+    ],
+    "category": "HOME",
+    "created_at": "2023-11-21T11:10:00Z"
+  },
+  {
+    "legacy_id": 88917,
+    "uuid": "FGVNUCY",
+    "coordinates": {
+      "latitude": 57.471056,
+      "longitude": -4.18862
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-03-18T10:43:00Z"
+  },
+  {
+    "legacy_id": 12694,
+    "uuid": "ZG2IDXU",
+    "coordinates": {
+      "latitude": 57.47775,
+      "longitude": -4.18104
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2018-03-05T11:53:00Z"
+  },
+  {
+    "legacy_id": 184594,
+    "uuid": "BROOMMS",
+    "coordinates": {
+      "latitude": 57.478206,
+      "longitude": -4.186849
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-09-21T10:53:43Z"
+  },
+  {
+    "legacy_id": 121555,
+    "uuid": "WJJPO90",
+    "coordinates": {
+      "latitude": 57.489,
+      "longitude": -4.107
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-25T10:02:23Z"
+  },
+  {
+    "legacy_id": 48651,
+    "uuid": "BZJEC8H",
+    "coordinates": {
+      "latitude": 57.474892,
+      "longitude": -4.193693
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-08-25T14:23:00Z"
+  },
+  {
+    "legacy_id": 88920,
+    "uuid": "XJN0MD6",
+    "coordinates": {
+      "latitude": 57.483566,
+      "longitude": -4.176726
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-03-18T10:56:00Z"
+  },
+  {
+    "legacy_id": 12695,
+    "uuid": "T23ADS1",
+    "coordinates": {
+      "latitude": 57.472809,
+      "longitude": -4.193102
+    },
+    "power": [
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-03-05T11:54:00Z"
+  },
+  {
+    "legacy_id": 121690,
+    "uuid": "P5QXQMM",
+    "coordinates": {
+      "latitude": 57.476235,
+      "longitude": -4.185404
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-28T16:00:25Z"
+  },
+  {
+    "legacy_id": 107917,
+    "uuid": "9NAG373",
+    "coordinates": {
+      "latitude": 57.477237,
+      "longitude": -4.091352
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-27T15:05:28Z"
+  },
+  {
+    "legacy_id": 270290,
+    "uuid": "CS2XJHR",
+    "coordinates": {
+      "latitude": 57.470459,
+      "longitude": -3.350074
+    },
+    "power": [
+      7360
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-04-10T12:02:20Z"
+  },
+  {
+    "legacy_id": 116779,
+    "uuid": "4GULKSI",
+    "coordinates": {
+      "latitude": 57.469514,
+      "longitude": -3.227283
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-28T16:43:22Z"
+  },
+  {
+    "legacy_id": 150532,
+    "uuid": "IVAULLD",
+    "coordinates": {
+      "latitude": 57.482046,
+      "longitude": -3.263504
+    },
+    "power": [
+      7200
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-06-19T10:40:28Z"
+  },
+  {
+    "legacy_id": 119095,
+    "uuid": "VERPRGQ",
+    "coordinates": {
+      "latitude": 57.47109,
+      "longitude": -3.22649
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-08T12:00:15Z"
+  },
+  {
+    "legacy_id": 38261,
+    "uuid": "0QXWG3L",
+    "coordinates": {
+      "latitude": 57.46822,
+      "longitude": -3.22292
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-12-17T11:18:00Z"
+  },
+  {
+    "legacy_id": 119611,
+    "uuid": "YMVAZWP",
+    "coordinates": {
+      "latitude": 57.44589,
+      "longitude": -3.12707
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-11T11:02:46Z"
+  },
+  {
+    "legacy_id": 117559,
+    "uuid": "H4CIJ7T",
+    "coordinates": {
+      "latitude": 57.48641,
+      "longitude": -3.18426
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T16:35:55Z"
+  },
+  {
+    "legacy_id": 26413,
+    "uuid": "B7XZOIR",
+    "coordinates": {
+      "latitude": 57.4745,
+      "longitude": -3.19849
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-04-25T11:18:00Z"
+  },
+  {
+    "legacy_id": 90502,
+    "uuid": "WVIFT1G",
+    "coordinates": {
+      "latitude": 57.489025,
+      "longitude": -3.18648
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2022-04-01T10:14:00Z"
+  },
+  {
+    "legacy_id": 28626,
+    "uuid": "BGNKS79",
+    "coordinates": {
+      "latitude": 57.486587,
+      "longitude": -3.184195
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-06-04T10:13:00Z"
+  },
+  {
+    "legacy_id": 87749,
+    "uuid": "TSPQ48H",
+    "coordinates": {
+      "latitude": 57.450039,
+      "longitude": -2.80192
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-02-25T09:53:00Z"
+  },
+  {
+    "legacy_id": 15502,
+    "uuid": "HKBIDVL",
+    "coordinates": {
+      "latitude": 57.440445,
+      "longitude": -2.766733
+    },
+    "power": [
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-08-01T14:14:00Z"
+  },
+  {
+    "legacy_id": 119149,
+    "uuid": "KYP9ZO7",
+    "coordinates": {
+      "latitude": 57.446849,
+      "longitude": -2.787873
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-09T14:47:40Z"
+  },
+  {
+    "legacy_id": 108343,
+    "uuid": "F3YQGZ0",
+    "coordinates": {
+      "latitude": 57.444109,
+      "longitude": -2.791489
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-30T16:47:37Z"
+  },
+  {
+    "legacy_id": 34138,
+    "uuid": "9G2Q7DC",
+    "coordinates": {
+      "latitude": 57.444469,
+      "longitude": -2.794298
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-09-25T11:55:00Z"
+  },
+  {
+    "legacy_id": 32158,
+    "uuid": "9LR6BPC",
+    "coordinates": {
+      "latitude": 57.427988,
+      "longitude": -2.396015
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-08-12T16:28:00Z"
+  },
+  {
+    "legacy_id": 131727,
+    "uuid": "DYS7WWY",
+    "coordinates": {
+      "latitude": 57.486088,
+      "longitude": -1.805658
+    },
+    "power": [
+      50000,
+      75000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-03-08T14:11:46Z"
+  },
+  {
+    "legacy_id": 80286,
+    "uuid": "2UEDXB4",
+    "coordinates": {
+      "latitude": 57.4143,
+      "longitude": -1.8645
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-12-01T15:02:00Z"
+  },
+  {
+    "legacy_id": 108313,
+    "uuid": "GNL2K8W",
+    "coordinates": {
+      "latitude": 57.497103,
+      "longitude": -1.796647
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-30T16:34:49Z"
+  },
+  {
+    "legacy_id": 106911,
+    "uuid": "2EZQZK4",
+    "coordinates": {
+      "latitude": 57.52886,
+      "longitude": -5.52819
+    },
+    "power": [
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-08-31T10:38:03Z"
+  },
+  {
+    "legacy_id": 8667,
+    "uuid": "2JOLG0F",
+    "coordinates": {
+      "latitude": 57.528179,
+      "longitude": -5.526554
+    },
+    "power": [
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2016-11-29T09:48:00Z"
+  },
+  {
+    "legacy_id": 2441,
+    "uuid": "TYK4A0O",
+    "coordinates": {
+      "latitude": 57.528918,
+      "longitude": -5.528193
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2015-11-04T00:00:00Z"
+  },
+  {
+    "legacy_id": 268116,
+    "uuid": "XD4ICZL",
+    "coordinates": {
+      "latitude": 57.545309,
+      "longitude": -5.510278
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-03-14T09:53:00Z"
+  },
+  {
+    "legacy_id": 120652,
+    "uuid": "DGRKUXH",
+    "coordinates": {
+      "latitude": 57.579831,
+      "longitude": -5.071884
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-21T16:29:33Z"
+  },
+  {
+    "legacy_id": 67679,
+    "uuid": "2KUHWGF",
+    "coordinates": {
+      "latitude": 57.58801,
+      "longitude": -4.53855
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-06-30T10:28:00Z"
+  },
+  {
+    "legacy_id": 45385,
+    "uuid": "G4CBLZT",
+    "coordinates": {
+      "latitude": 57.58841,
+      "longitude": -4.54
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-06-25T09:59:00Z"
+  },
+  {
+    "legacy_id": 141696,
+    "uuid": "W7J6VZB",
+    "coordinates": {
+      "latitude": 57.58679,
+      "longitude": -4.543044
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-04-20T11:08:20Z"
+  },
+  {
+    "legacy_id": 6725,
+    "uuid": "APYDW91",
+    "coordinates": {
+      "latitude": 57.59436,
+      "longitude": -4.42821
+    },
+    "power": [
+      22000,
+      25000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2016-04-11T11:20:00Z"
+  },
+  {
+    "legacy_id": 187602,
+    "uuid": "VQJIFD6",
+    "coordinates": {
+      "latitude": 57.522157,
+      "longitude": -4.474049
+    },
+    "power": [
+      7360
+    ],
+    "category": "WORK",
+    "created_at": "2023-10-10T11:36:26Z"
+  },
+  {
+    "legacy_id": 124099,
+    "uuid": "YENGGUN",
+    "coordinates": {
+      "latitude": 57.523,
+      "longitude": -4.474
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-12-16T11:53:56Z"
+  },
+  {
+    "legacy_id": 51985,
+    "uuid": "52VT89W",
+    "coordinates": {
+      "latitude": 57.59641,
+      "longitude": -4.43321
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-11-02T15:34:00Z"
+  },
+  {
+    "legacy_id": 3176,
+    "uuid": "B70F5Z1",
+    "coordinates": {
+      "latitude": 57.58492,
+      "longitude": -4.43318
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2014-04-30T00:00:00Z"
+  },
+  {
+    "legacy_id": 88133,
+    "uuid": "CVQHK4Y",
+    "coordinates": {
+      "latitude": 57.597358,
+      "longitude": -4.430193
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-03-09T11:34:00Z"
+  },
+  {
+    "legacy_id": 168446,
+    "uuid": "FEJYPTL",
+    "coordinates": {
+      "latitude": 57.502118,
+      "longitude": -4.246602
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-09-04T11:58:27Z"
+  },
+  {
+    "legacy_id": 13779,
+    "uuid": "NJK8E2T",
+    "coordinates": {
+      "latitude": 57.520167,
+      "longitude": -4.214555
+    },
+    "power": [
+      7000,
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-05-03T16:49:00Z"
+  },
+  {
+    "legacy_id": 163950,
+    "uuid": "A65HNRO",
+    "coordinates": {
+      "latitude": 57.537628,
+      "longitude": -4.064664
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-08-21T10:29:46Z"
+  },
+  {
+    "legacy_id": 79102,
+    "uuid": "8PYB9X0",
+    "coordinates": {
+      "latitude": 57.520629,
+      "longitude": -4.014311
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2021-11-10T12:25:00Z"
+  },
+  {
+    "legacy_id": 266937,
+    "uuid": "HU01TP0",
+    "coordinates": {
+      "latitude": 57.584351,
+      "longitude": -4.071068
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-03-06T10:37:23Z"
+  },
+  {
+    "legacy_id": 261281,
+    "uuid": "7PIR5NR",
+    "coordinates": {
+      "latitude": 57.533703,
+      "longitude": -4.055648
+    },
+    "power": [
+      7200
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-01-23T12:08:51Z"
+  },
+  {
+    "legacy_id": 103463,
+    "uuid": "CEEYM93",
+    "coordinates": {
+      "latitude": 57.58572,
+      "longitude": -3.87111
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-08-09T16:22:14Z"
+  },
+  {
+    "legacy_id": 51524,
+    "uuid": "7ZQW2HL",
+    "coordinates": {
+      "latitude": 57.58572,
+      "longitude": -3.87111
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-10-26T15:44:00Z"
+  },
+  {
+    "legacy_id": 28390,
+    "uuid": "1DFGBL7",
+    "coordinates": {
+      "latitude": 57.58787,
+      "longitude": -3.88795
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-05-23T16:20:00Z"
+  },
+  {
+    "legacy_id": 6726,
+    "uuid": "54P2CRF",
+    "coordinates": {
+      "latitude": 57.585466,
+      "longitude": -3.86955
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2016-04-11T11:20:00Z"
+  },
+  {
+    "legacy_id": 63115,
+    "uuid": "J1FAZ36",
+    "coordinates": {
+      "latitude": 57.59773,
+      "longitude": -3.70648
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-04-27T14:19:00Z"
+  },
+  {
+    "legacy_id": 54181,
+    "uuid": "762KQ59",
+    "coordinates": {
+      "latitude": 57.53338,
+      "longitude": -3.6601
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-12-07T16:21:00Z"
+  },
+  {
+    "legacy_id": 69009,
+    "uuid": "YGWN92I",
+    "coordinates": {
+      "latitude": 57.527649,
+      "longitude": -3.207905
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-07-12T12:36:00Z"
+  },
+  {
+    "legacy_id": 13829,
+    "uuid": "X3W0RSI",
+    "coordinates": {
+      "latitude": 57.546367,
+      "longitude": -2.96483
+    },
+    "power": [
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-05-09T11:41:00Z"
+  },
+  {
+    "legacy_id": 163832,
+    "uuid": "BLTVVDY",
+    "coordinates": {
+      "latitude": 57.54969,
+      "longitude": -2.95643
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-08-18T14:28:46Z"
+  },
+  {
+    "legacy_id": 1907,
+    "uuid": "ARGU07S",
+    "coordinates": {
+      "latitude": 57.53838,
+      "longitude": -2.95119
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2014-11-19T00:00:00Z"
+  },
+  {
+    "legacy_id": 82049,
+    "uuid": "EHTPMFB",
+    "coordinates": {
+      "latitude": 57.54173,
+      "longitude": -2.945244
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-12-09T11:17:00Z"
+  },
+  {
+    "legacy_id": 50787,
+    "uuid": "2T7L8OD",
+    "coordinates": {
+      "latitude": 57.53823,
+      "longitude": -2.46383
+    },
+    "power": [
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-10-07T15:17:00Z"
+  },
+  {
+    "legacy_id": 8227,
+    "uuid": "M6041B9",
+    "coordinates": {
+      "latitude": 57.53681,
+      "longitude": -2.4624
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2016-09-30T12:31:00Z"
+  },
+  {
+    "legacy_id": 72450,
+    "uuid": "GQWN3CI",
+    "coordinates": {
+      "latitude": 57.521635,
+      "longitude": -2.129767
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-08-23T11:26:00Z"
+  },
+  {
+    "legacy_id": 158096,
+    "uuid": "CMSJWZX",
+    "coordinates": {
+      "latitude": 57.521017,
+      "longitude": -2.02909
+    },
+    "power": [
+      7000,
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-08-01T12:02:32Z"
+  },
+  {
+    "legacy_id": 117550,
+    "uuid": "LVLEFBX",
+    "coordinates": {
+      "latitude": 57.5267,
+      "longitude": -2.02629
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T16:04:02Z"
+  },
+  {
+    "legacy_id": 269958,
+    "uuid": "9G8WWYB",
+    "coordinates": {
+      "latitude": 57.525947,
+      "longitude": -2.014356
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-04-08T11:14:23Z"
+  },
+  {
+    "legacy_id": 10036,
+    "uuid": "9ZA4D2T",
+    "coordinates": {
+      "latitude": 57.50553,
+      "longitude": -1.783496
+    },
+    "power": [
+      7000
+    ],
+    "category": "WORK",
+    "created_at": "2017-07-12T15:26:00Z"
+  },
+  {
+    "legacy_id": 120613,
+    "uuid": "4LTFWRO",
+    "coordinates": {
+      "latitude": 57.50258,
+      "longitude": -1.79371
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-21T14:39:59Z"
+  },
+  {
+    "legacy_id": 257244,
+    "uuid": "BGRST53",
+    "coordinates": {
+      "latitude": 57.50264,
+      "longitude": -1.774202
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-12-08T16:04:24Z"
+  },
+  {
+    "legacy_id": 13380,
+    "uuid": "8JGDEST",
+    "coordinates": {
+      "latitude": 57.601319,
+      "longitude": -4.454244
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-04-16T10:23:00Z"
+  },
+  {
+    "legacy_id": 12680,
+    "uuid": "DMZNECP",
+    "coordinates": {
+      "latitude": 57.61282,
+      "longitude": -4.45787
+    },
+    "power": [
+      43000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-03-05T09:54:00Z"
+  },
+  {
+    "legacy_id": 488562,
+    "uuid": "BHA85UM",
+    "coordinates": {
+      "latitude": 57.600712,
+      "longitude": -4.42955
+    },
+    "power": [
+      7000,
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-05-24T09:44:33Z"
+  },
+  {
+    "legacy_id": 31852,
+    "uuid": "7W35PYK",
+    "coordinates": {
+      "latitude": 57.640589,
+      "longitude": -4.349229
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-08-01T14:26:00Z"
+  },
+  {
+    "legacy_id": 117613,
+    "uuid": "HCEDQLY",
+    "coordinates": {
+      "latitude": 57.600462,
+      "longitude": -4.339918
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-01T12:10:06Z"
+  },
+  {
+    "legacy_id": 296559,
+    "uuid": "QZLXBL7",
+    "coordinates": {
+      "latitude": 57.600062,
+      "longitude": -4.343627
+    },
+    "power": [
+      150000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-05-09T14:07:52Z"
+  },
+  {
+    "legacy_id": 62908,
+    "uuid": "IQV0DEJ",
+    "coordinates": {
+      "latitude": 57.69378,
+      "longitude": -4.24903
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-04-22T09:25:00Z"
+  },
+  {
+    "legacy_id": 20684,
+    "uuid": "9GOHWCR",
+    "coordinates": {
+      "latitude": 57.6788,
+      "longitude": -4.29888
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-12-18T14:21:00Z"
+  },
+  {
+    "legacy_id": 101842,
+    "uuid": "SJT9H16",
+    "coordinates": {
+      "latitude": 57.69027,
+      "longitude": -4.240175
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-07-29T16:15:00Z"
+  },
+  {
+    "legacy_id": 297294,
+    "uuid": "4XOGZ0D",
+    "coordinates": {
+      "latitude": 57.69309,
+      "longitude": -4.26055
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2024-05-21T13:43:13Z"
+  },
+  {
+    "legacy_id": 116827,
+    "uuid": "ZTGZC6E",
+    "coordinates": {
+      "latitude": 57.693324,
+      "longitude": -4.167635
+    },
+    "power": [
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T12:12:53Z"
+  },
+  {
+    "legacy_id": 15398,
+    "uuid": "1MHA37Q",
+    "coordinates": {
+      "latitude": 57.657867,
+      "longitude": -4.175886
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-07-24T15:42:00Z"
+  },
+  {
+    "legacy_id": 135069,
+    "uuid": "UT83WVX",
+    "coordinates": {
+      "latitude": 57.6173,
+      "longitude": -4.09373
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-03-17T14:46:00Z"
+  },
+  {
+    "legacy_id": 117541,
+    "uuid": "BRH016T",
+    "coordinates": {
+      "latitude": 57.60828,
+      "longitude": -3.61108
+    },
+    "power": [
+      22000,
+      51000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T15:41:47Z"
+  },
+  {
+    "legacy_id": 87865,
+    "uuid": "BTASRG9",
+    "coordinates": {
+      "latitude": 57.608479,
+      "longitude": -3.626523
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-03-03T09:53:00Z"
+  },
+  {
+    "legacy_id": 149042,
+    "uuid": "3OFUBK5",
+    "coordinates": {
+      "latitude": 57.611145,
+      "longitude": -3.623643
+    },
+    "power": [
+      7200
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-05-29T11:56:45Z"
+  },
+  {
+    "legacy_id": 69532,
+    "uuid": "SVRE1DO",
+    "coordinates": {
+      "latitude": 57.609902,
+      "longitude": -3.614812
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-07-27T11:48:00Z"
+  },
+  {
+    "legacy_id": 28260,
+    "uuid": "E8YQ09A",
+    "coordinates": {
+      "latitude": 57.61113,
+      "longitude": -3.61249
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-05-21T16:48:00Z"
+  },
+  {
+    "legacy_id": 2655,
+    "uuid": "ABAHVWB",
+    "coordinates": {
+      "latitude": 57.615288,
+      "longitude": -3.603984
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2014-07-03T00:00:00Z"
+  },
+  {
+    "legacy_id": 3180,
+    "uuid": "B7SCVGP",
+    "coordinates": {
+      "latitude": 57.6523,
+      "longitude": -3.59338
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2014-04-30T00:00:00Z"
+  },
+  {
+    "legacy_id": 168822,
+    "uuid": "CXDKFIC",
+    "coordinates": {
+      "latitude": 57.65364,
+      "longitude": -3.5942
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-09-06T12:06:49Z"
+  },
+  {
+    "legacy_id": 152380,
+    "uuid": "LWVHNLG",
+    "coordinates": {
+      "latitude": 57.615891,
+      "longitude": -3.569916
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-07-04T10:05:34Z"
+  },
+  {
+    "legacy_id": 118996,
+    "uuid": "3RD1GVK",
+    "coordinates": {
+      "latitude": 57.61586,
+      "longitude": -3.57008
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2022-11-08T10:44:56Z"
+  },
+  {
+    "legacy_id": 2306,
+    "uuid": "P1JC68U",
+    "coordinates": {
+      "latitude": 57.61611,
+      "longitude": -3.57022
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2015-08-10T00:00:00Z"
+  },
+  {
+    "legacy_id": 266961,
+    "uuid": "2ONA3DJ",
+    "coordinates": {
+      "latitude": 57.63949,
+      "longitude": -3.5568
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-03-06T11:30:48Z"
+  },
+  {
+    "legacy_id": 108349,
+    "uuid": "UESOQRE",
+    "coordinates": {
+      "latitude": 57.699762,
+      "longitude": -3.473084
+    },
+    "power": [
+      22000,
+      51000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-30T16:52:41Z"
+  },
+  {
+    "legacy_id": 13550,
+    "uuid": "80BDTA9",
+    "coordinates": {
+      "latitude": 57.647991,
+      "longitude": -3.415874
+    },
+    "power": [
+      7000,
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-04-23T12:30:00Z"
+  },
+  {
+    "legacy_id": 108793,
+    "uuid": "UNXPEWE",
+    "coordinates": {
+      "latitude": 57.64678,
+      "longitude": -3.314144
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-07T11:45:17Z"
+  },
+  {
+    "legacy_id": 19672,
+    "uuid": "CR53KYA",
+    "coordinates": {
+      "latitude": 57.6498,
+      "longitude": -3.31273
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-11-19T12:36:00Z"
+  },
+  {
+    "legacy_id": 86247,
+    "uuid": "D5GWNU1",
+    "coordinates": {
+      "latitude": 57.650828,
+      "longitude": -3.32031
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-02-10T10:05:00Z"
+  },
+  {
+    "legacy_id": 68994,
+    "uuid": "HT6WVZ0",
+    "coordinates": {
+      "latitude": 57.6486,
+      "longitude": -3.30974
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-07-12T11:43:00Z"
+  },
+  {
+    "legacy_id": 19669,
+    "uuid": "TH1LIFG",
+    "coordinates": {
+      "latitude": 57.64902,
+      "longitude": -3.31905
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-11-19T12:32:00Z"
+  },
+  {
+    "legacy_id": 116791,
+    "uuid": "XPHEWKY",
+    "coordinates": {
+      "latitude": 57.651534,
+      "longitude": -3.317694
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T11:48:43Z"
+  },
+  {
+    "legacy_id": 19566,
+    "uuid": "I7JVZSX",
+    "coordinates": {
+      "latitude": 57.640218,
+      "longitude": -3.314075
+    },
+    "power": [
+      3000,
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-11-12T12:38:00Z"
+  },
+  {
+    "legacy_id": 12612,
+    "uuid": "97TUOHY",
+    "coordinates": {
+      "latitude": 57.64309,
+      "longitude": -3.31103
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-02-21T11:23:00Z"
+  },
+  {
+    "legacy_id": 11388,
+    "uuid": "CHKQWF8",
+    "coordinates": {
+      "latitude": 57.646017,
+      "longitude": -3.319541
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-11-20T11:59:00Z"
+  },
+  {
+    "legacy_id": 3174,
+    "uuid": "9DQ5PZR",
+    "coordinates": {
+      "latitude": 57.6471,
+      "longitude": -3.31964
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2014-03-28T00:00:00Z"
+  },
+  {
+    "legacy_id": 12692,
+    "uuid": "XQY16D2",
+    "coordinates": {
+      "latitude": 57.64558,
+      "longitude": -3.33033
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-03-05T11:49:00Z"
+  },
+  {
+    "legacy_id": 130555,
+    "uuid": "3WL2EF1",
+    "coordinates": {
+      "latitude": 57.647358,
+      "longitude": -3.289869
+    },
+    "power": [
+      7200
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-02-15T14:08:00Z"
+  },
+  {
+    "legacy_id": 33054,
+    "uuid": "G8I3M5Z",
+    "coordinates": {
+      "latitude": 57.64323,
+      "longitude": -3.29017
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-08-27T11:59:00Z"
+  },
+  {
+    "legacy_id": 101836,
+    "uuid": "I8X42R1",
+    "coordinates": {
+      "latitude": 57.633589,
+      "longitude": -3.286314
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-07-29T16:06:00Z"
+  },
+  {
+    "legacy_id": 1629,
+    "uuid": "6YZIHXA",
+    "coordinates": {
+      "latitude": 57.64633,
+      "longitude": -3.28451
+    },
+    "power": [
+      3000,
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2013-06-10T00:00:00Z"
+  },
+  {
+    "legacy_id": 260511,
+    "uuid": "85MF0T9",
+    "coordinates": {
+      "latitude": 57.660762,
+      "longitude": -3.113114
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2024-01-18T15:59:00Z"
+  },
+  {
+    "legacy_id": 69718,
+    "uuid": "XDY9ILC",
+    "coordinates": {
+      "latitude": 57.663725,
+      "longitude": -3.014214
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-08-03T14:41:00Z"
+  },
+  {
+    "legacy_id": 12735,
+    "uuid": "FL9BI87",
+    "coordinates": {
+      "latitude": 57.618064,
+      "longitude": -3.091554
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-03-09T10:39:00Z"
+  },
+  {
+    "legacy_id": 296239,
+    "uuid": "X5AM8OH",
+    "coordinates": {
+      "latitude": 57.670075,
+      "longitude": -3.083484
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-05-03T15:57:00Z"
+  },
+  {
+    "legacy_id": 2795,
+    "uuid": "8B9Z4VY",
+    "coordinates": {
+      "latitude": 57.67648,
+      "longitude": -2.96694
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2012-07-15T00:00:00Z"
+  },
+  {
+    "legacy_id": 82052,
+    "uuid": "98MGWYB",
+    "coordinates": {
+      "latitude": 57.666451,
+      "longitude": -2.958107
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-12-09T11:27:00Z"
+  },
+  {
+    "legacy_id": 136419,
+    "uuid": "1GOQCTX",
+    "coordinates": {
+      "latitude": 57.6889,
+      "longitude": -2.816
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-03-22T16:29:12Z"
+  },
+  {
+    "legacy_id": 67177,
+    "uuid": "JLI0M27",
+    "coordinates": {
+      "latitude": 57.69153,
+      "longitude": -2.81916
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-06-17T11:57:00Z"
+  },
+  {
+    "legacy_id": 107494,
+    "uuid": "85LH08E",
+    "coordinates": {
+      "latitude": 57.682945,
+      "longitude": -2.691876
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-16T16:48:30Z"
+  },
+  {
+    "legacy_id": 117667,
+    "uuid": "NJLSRS2",
+    "coordinates": {
+      "latitude": 57.66252,
+      "longitude": -2.60566
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-02T14:48:16Z"
+  },
+  {
+    "legacy_id": 48614,
+    "uuid": "CG5VX80",
+    "coordinates": {
+      "latitude": 57.66252,
+      "longitude": -2.60566
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-08-25T09:46:00Z"
+  },
+  {
+    "legacy_id": 1601,
+    "uuid": "701CJHV",
+    "coordinates": {
+      "latitude": 57.67948,
+      "longitude": -2.69685
+    },
+    "power": [
+      3000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2013-06-10T00:00:00Z"
+  },
+  {
+    "legacy_id": 270518,
+    "uuid": "4UII3HT",
+    "coordinates": {
+      "latitude": 57.683007,
+      "longitude": -2.691587
+    },
+    "power": [
+      12800
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-04-11T16:35:43Z"
+  },
+  {
+    "legacy_id": 32157,
+    "uuid": "9Y7USVQ",
+    "coordinates": {
+      "latitude": 57.66461,
+      "longitude": -2.5164
+    },
+    "power": [
+      7000,
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-08-12T16:25:00Z"
+  },
+  {
+    "legacy_id": 16072,
+    "uuid": "XPQSF9U",
+    "coordinates": {
+      "latitude": 57.667259,
+      "longitude": -2.504158
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-09-17T15:01:00Z"
+  },
+  {
+    "legacy_id": 108322,
+    "uuid": "Z9BZNLC",
+    "coordinates": {
+      "latitude": 57.67228,
+      "longitude": -2.49299
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-30T16:36:54Z"
+  },
+  {
+    "legacy_id": 30923,
+    "uuid": "NVXB7RJ",
+    "coordinates": {
+      "latitude": 57.66742,
+      "longitude": -2.47873
+    },
+    "power": [
+      22000
+    ],
+    "category": "WORK",
+    "created_at": "2019-07-22T14:40:00Z"
+  },
+  {
+    "legacy_id": 68503,
+    "uuid": "GQHF2P4",
+    "coordinates": {
+      "latitude": 57.679129,
+      "longitude": -2.258696
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-07-06T12:26:00Z"
+  },
+  {
+    "legacy_id": 5864,
+    "uuid": "54NC1WT",
+    "coordinates": {
+      "latitude": 57.69069,
+      "longitude": -2.00454
+    },
+    "power": [
+      25000,
+      43000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2016-01-29T09:16:00Z"
+  },
+  {
+    "legacy_id": 116803,
+    "uuid": "QMFRNAJ",
+    "coordinates": {
+      "latitude": 57.693668,
+      "longitude": -2.009386
+    },
+    "power": [
+      22000,
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-10-31T11:56:09Z"
+  },
+  {
+    "legacy_id": 82625,
+    "uuid": "KLUATEV",
+    "coordinates": {
+      "latitude": 57.678968,
+      "longitude": -2.00458
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-12-21T16:20:00Z"
+  },
+  {
+    "legacy_id": 41052,
+    "uuid": "SRIAHNM",
+    "coordinates": {
+      "latitude": 57.709085,
+      "longitude": -4.230179
+    },
+    "power": [
+      3000
+    ],
+    "category": "WORK",
+    "created_at": "2020-01-30T09:38:00Z"
+  },
+  {
+    "legacy_id": 296203,
+    "uuid": "AE3INU7",
+    "coordinates": {
+      "latitude": 57.70204,
+      "longitude": -3.457339
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2024-05-03T14:41:00Z"
+  },
+  {
+    "legacy_id": 259611,
+    "uuid": "2AWI9PF",
+    "coordinates": {
+      "latitude": 57.710029,
+      "longitude": -3.436593
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2024-01-09T10:17:00Z"
+  },
+  {
+    "legacy_id": 13882,
+    "uuid": "7EOC0LV",
+    "coordinates": {
+      "latitude": 57.723472,
+      "longitude": -3.332549
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-05-10T15:36:00Z"
+  },
+  {
+    "legacy_id": 107860,
+    "uuid": "ZQJNMHK",
+    "coordinates": {
+      "latitude": 57.72098,
+      "longitude": -3.28021
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-09-27T12:11:43Z"
+  },
+  {
+    "legacy_id": 24204,
+    "uuid": "519OENH",
+    "coordinates": {
+      "latitude": 57.89749,
+      "longitude": -5.16552
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-04-03T10:17:00Z"
+  },
+  {
+    "legacy_id": 2156,
+    "uuid": "LRDYMJE",
+    "coordinates": {
+      "latitude": 57.89568,
+      "longitude": -5.161318
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "WORK",
+    "created_at": "2015-07-16T00:00:00Z"
+  },
+  {
+    "legacy_id": 120483,
+    "uuid": "2Q7BWN5",
+    "coordinates": {
+      "latitude": 57.897203,
+      "longitude": -5.162898
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-18T11:59:00Z"
+  },
+  {
+    "legacy_id": 254848,
+    "uuid": "QBMCBNG",
+    "coordinates": {
+      "latitude": 57.89645,
+      "longitude": -5.161753
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2023-11-27T16:44:03Z"
+  },
+  {
+    "legacy_id": 41053,
+    "uuid": "8YBTCA2",
+    "coordinates": {
+      "latitude": 57.869957,
+      "longitude": -4.63339
+    },
+    "power": [
+      7000
+    ],
+    "category": "HOME",
+    "created_at": "2020-01-30T09:40:00Z"
+  },
+  {
+    "legacy_id": 117643,
+    "uuid": "DTOA3IF",
+    "coordinates": {
+      "latitude": 57.88191,
+      "longitude": -4.36338
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-01T16:16:50Z"
+  },
+  {
+    "legacy_id": 15109,
+    "uuid": "YSA9E4J",
+    "coordinates": {
+      "latitude": 57.88265,
+      "longitude": -4.36527
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "WORK",
+    "created_at": "2018-06-28T16:45:00Z"
+  },
+  {
+    "legacy_id": 15408,
+    "uuid": "MIGWALE",
+    "coordinates": {
+      "latitude": 57.873125,
+      "longitude": -4.132442
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2018-07-24T15:54:00Z"
+  },
+  {
+    "legacy_id": 88914,
+    "uuid": "OZUG2Q0",
+    "coordinates": {
+      "latitude": 57.814906,
+      "longitude": -4.056507
+    },
+    "power": [
+      7000,
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-03-18T10:37:00Z"
+  },
+  {
+    "legacy_id": 118846,
+    "uuid": "YTBXVOJ",
+    "coordinates": {
+      "latitude": 57.81123,
+      "longitude": -4.0556
+    },
+    "power": [
+      43000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-11-07T16:55:14Z"
+  },
+  {
+    "legacy_id": 103508,
+    "uuid": "U8UOZ6F",
+    "coordinates": {
+      "latitude": 57.88,
+      "longitude": -4.03036
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-08-10T10:25:08Z"
+  },
+  {
+    "legacy_id": 45394,
+    "uuid": "M74BQON",
+    "coordinates": {
+      "latitude": 57.87614,
+      "longitude": -4.02087
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-06-25T10:07:00Z"
+  },
+  {
+    "legacy_id": 45391,
+    "uuid": "DL2FMXJ",
+    "coordinates": {
+      "latitude": 57.80653,
+      "longitude": -4.03386
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-06-25T10:06:00Z"
+  },
+  {
+    "legacy_id": 34970,
+    "uuid": "62O5R0V",
+    "coordinates": {
+      "latitude": 57.87981,
+      "longitude": -4.03394
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2019-10-03T15:57:00Z"
+  },
+  {
+    "legacy_id": 88916,
+    "uuid": "S3QHFDE",
+    "coordinates": {
+      "latitude": 57.814906,
+      "longitude": -4.056507
+    },
+    "power": [
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-03-18T10:40:00Z"
+  },
+  {
+    "legacy_id": 10453,
+    "uuid": "97ON2PK",
+    "coordinates": {
+      "latitude": 57.894827,
+      "longitude": -4.05345
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-08-09T12:13:00Z"
+  },
+  {
+    "legacy_id": 10452,
+    "uuid": "27I01ZM",
+    "coordinates": {
+      "latitude": 57.879504,
+      "longitude": -4.023029
+    },
+    "power": [
+      11000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-08-09T12:11:00Z"
+  },
+  {
+    "legacy_id": 2793,
+    "uuid": "AOR2BPK",
+    "coordinates": {
+      "latitude": 57.879054,
+      "longitude": -4.023705
+    },
+    "power": [
+      7000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2014-08-05T00:00:00Z"
+  },
+  {
+    "legacy_id": 11556,
+    "uuid": "JHVTAYN",
+    "coordinates": {
+      "latitude": 57.96058,
+      "longitude": -4.40822
+    },
+    "power": [
+      22000,
+      44000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2017-12-08T14:33:00Z"
+  },
+  {
+    "legacy_id": 53102,
+    "uuid": "7KI1OA3",
+    "coordinates": {
+      "latitude": 57.97384,
+      "longitude": -3.97562
+    },
+    "power": [
+      22000,
+      50000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2020-11-25T09:54:00Z"
+  },
+  {
+    "legacy_id": 106854,
+    "uuid": "OMDAMU1",
+    "coordinates": {
+      "latitude": 57.96982,
+      "longitude": -3.99971
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2022-08-29T12:09:07Z"
+  },
+  {
+    "legacy_id": 62756,
+    "uuid": "JRBTODE",
+    "coordinates": {
+      "latitude": 57.96979,
+      "longitude": -3.99968
+    },
+    "power": [
+      22000
+    ],
+    "category": "PUBLIC",
+    "created_at": "2021-04-15T10:13:00Z"
+  }
+]

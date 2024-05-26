@@ -1,0 +1,607 @@
+[
+  {
+    "uuid": "7SEGYMT",
+    "user_rating": 4.33,
+    "user_rating_count": 20,
+    "updated_at": "2024-05-22T14:01:14Z",
+    "name": "Blights Motors Bideford",
+    "address": "Clovelly Road, Handy Cross",
+    "city": "Bideford",
+    "postal_code": "EX39 3ET",
+    "state": "South West",
+    "country": "gb",
+    "time_zone": "Europe/London",
+    "coordinates": {
+      "latitude": 51.01084,
+      "longitude": -4.223208
+    },
+    "positioning": {
+      "what_3_words": "finest.images.artist"
+    },
+    "directions": {
+      "text": null
+    },
+    "categories": [
+      "FUEL_FORECOURT",
+      "BP"
+    ],
+    "facilities": [
+      "Cafe",
+      "Toilets",
+      "Shops"
+    ],
+    "opening_times": {
+      "twentyfourseven": false,
+      "regular_hours": [
+        {
+          "weekday": "MONDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "TUESDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "WEDNESDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "THURSDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "FRIDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "SUNDAY",
+          "period_begin": "08:00",
+          "period_end": "22:00"
+        }
+      ]
+    },
+    "parking": {
+      "type": null,
+      "fee": "Report vehicle registration to reception"
+    },
+    "data_provider": {
+      "uuid": "325",
+      "country_code": "GB",
+      "party_id": "INC",
+      "name": "Instavolt via Chargepoint"
+    },
+    "operator": {
+      "uuid": "117",
+      "name": "InstaVolt",
+      "trading_name": null,
+      "legal_name": null,
+      "address": null,
+      "company_number": null,
+      "vat_registration_number": null,
+      "logo": "https://static.zap-map.io/images/YF1yw1kSvg8kNZ1an3iSdiMK1D5uPSFRfZkkC45b.png",
+      "banner": "https://static.zap-map.io/images/zv6e6gpAn1nA5SoJAksvnVwhNmaTa8uOHMXRAfE1.png",
+      "website": "http://instavolt.co.uk/",
+      "terms": null,
+      "support_telephone": "0808 281 4444",
+      "vat_rate": 0
+    },
+    "owner": {
+      "name": null,
+      "website": "http://instavolt.co.uk/",
+      "contact_name": null,
+      "email_address": null,
+      "telephone_number": "08082814444",
+      "controller_name": ""
+    },
+    "notes": "Charging station can be found on the right hand side of the petrol station forecourt.\nThis is a ChargePoint device. For terms and conditions please see https://www.chargepoint.com/legal/ and https://www.chargepoint.com/privacy/.\n",
+    "energy_mix": {
+      "is_green_energy": false
+    },
+    "devices": [
+      {
+        "uuid": "EV8512X",
+        "physical_reference": "230905",
+        "updated_at": "2024-05-22T14:01:14Z",
+        "payment_details": {
+          "is_free": false,
+          "pricing": "85p/kWh",
+          "subscription_details": "InstaVolt app",
+          "payment_methods": [
+            "CONTACTLESS",
+            "ALLSTAR_RFID"
+          ]
+        },
+        "parking": {
+          "is_taxi_only": false,
+          "physical_restrictions": "",
+          "access_restrictions": ""
+        },
+        "evses": [
+          {
+            "uuid": "5f83117e4e995c46cc7a25baf02de443",
+            "external_uid": "IV-230905-1",
+            "external_evse_id": "IV-230905-1",
+            "physical_reference": null,
+            "updated_at": "2023-04-14T11:23:35Z",
+            "connectors": [
+              {
+                "uuid": "7711f1f0c74d3431e926b20fde412ddd",
+                "updated_at": "2020-09-22T12:10:20Z",
+                "standard": "CHADEMO",
+                "format": null,
+                "power_type": "DC",
+                "max_voltage": 400,
+                "max_amperage": 125,
+                "max_electric_power": 50000,
+                "tariff_ids": []
+              },
+              {
+                "uuid": "9c3e423b089889310e14026bcd80407a",
+                "updated_at": "2023-06-21T16:13:56Z",
+                "standard": "IEC_62196_T2_COMBO",
+                "format": null,
+                "power_type": "DC",
+                "max_voltage": 400,
+                "max_amperage": 125,
+                "max_electric_power": 50000,
+                "tariff_ids": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "uuid": "7SEGYMT",
+    "user_rating": 4.33,
+    "user_rating_count": 20,
+    "updated_at": "2024-05-22T14:01:14Z",
+    "name": "Blights Motors Bideford",
+    "address": "Clovelly Road, Handy Cross",
+    "city": "Bideford",
+    "postal_code": "EX39 3ET",
+    "state": "South West",
+    "country": "gb",
+    "time_zone": "Europe/London",
+    "coordinates": {
+      "latitude": 51.01084,
+      "longitude": -4.223208
+    },
+    "positioning": {
+      "what_3_words": "finest.images.artist"
+    },
+    "directions": {
+      "text": null
+    },
+    "categories": [
+      "FUEL_FORECOURT",
+      "BP"
+    ],
+    "facilities": [
+      "Cafe",
+      "Toilets",
+      "Shops"
+    ],
+    "opening_times": {
+      "twentyfourseven": false,
+      "regular_hours": [
+        {
+          "weekday": "MONDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "TUESDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "WEDNESDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "THURSDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "FRIDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "SUNDAY",
+          "period_begin": "08:00",
+          "period_end": "22:00"
+        }
+      ]
+    },
+    "parking": {
+      "type": null,
+      "fee": "Report vehicle registration to reception"
+    },
+    "data_provider": {
+      "uuid": "325",
+      "country_code": "GB",
+      "party_id": "INC",
+      "name": "Instavolt via Chargepoint"
+    },
+    "operator": {
+      "uuid": "117",
+      "name": "InstaVolt",
+      "trading_name": null,
+      "legal_name": null,
+      "address": null,
+      "company_number": null,
+      "vat_registration_number": null,
+      "logo": "https://static.zap-map.io/images/YF1yw1kSvg8kNZ1an3iSdiMK1D5uPSFRfZkkC45b.png",
+      "banner": "https://static.zap-map.io/images/zv6e6gpAn1nA5SoJAksvnVwhNmaTa8uOHMXRAfE1.png",
+      "website": "http://instavolt.co.uk/",
+      "terms": null,
+      "support_telephone": "0808 281 4444",
+      "vat_rate": 0
+    },
+    "owner": {
+      "name": null,
+      "website": "http://instavolt.co.uk/",
+      "contact_name": null,
+      "email_address": null,
+      "telephone_number": "08082814444",
+      "controller_name": ""
+    },
+    "notes": "Charging station can be found on the right hand side of the petrol station forecourt.\nThis is a ChargePoint device. For terms and conditions please see https://www.chargepoint.com/legal/ and https://www.chargepoint.com/privacy/.\n",
+    "energy_mix": {
+      "is_green_energy": false
+    },
+    "devices": [
+      {
+        "uuid": "EV8512X",
+        "physical_reference": "230905",
+        "updated_at": "2024-05-22T14:01:14Z",
+        "payment_details": {
+          "is_free": false,
+          "pricing": "85p/kWh",
+          "subscription_details": "InstaVolt app",
+          "payment_methods": [
+            "CONTACTLESS",
+            "ALLSTAR_RFID"
+          ]
+        },
+        "parking": {
+          "is_taxi_only": false,
+          "physical_restrictions": "",
+          "access_restrictions": ""
+        },
+        "evses": [
+          {
+            "uuid": "5f83117e4e995c46cc7a25baf02de443",
+            "external_uid": "IV-230905-1",
+            "external_evse_id": "IV-230905-1",
+            "physical_reference": null,
+            "updated_at": "2023-04-14T11:23:35Z",
+            "connectors": [
+              {
+                "uuid": "7711f1f0c74d3431e926b20fde412ddd",
+                "updated_at": "2020-09-22T12:10:20Z",
+                "standard": "CHADEMO",
+                "format": null,
+                "power_type": "DC",
+                "max_voltage": 400,
+                "max_amperage": 125,
+                "max_electric_power": 50000,
+                "tariff_ids": []
+              },
+              {
+                "uuid": "9c3e423b089889310e14026bcd80407a",
+                "updated_at": "2023-06-21T16:13:56Z",
+                "standard": "IEC_62196_T2_COMBO",
+                "format": null,
+                "power_type": "DC",
+                "max_voltage": 400,
+                "max_amperage": 125,
+                "max_electric_power": 50000,
+                "tariff_ids": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "uuid": "7SEGYMT",
+    "user_rating": 4.33,
+    "user_rating_count": 20,
+    "updated_at": "2024-05-22T14:01:14Z",
+    "name": "Blights Motors Bideford",
+    "address": "Clovelly Road, Handy Cross",
+    "city": "Bideford",
+    "postal_code": "EX39 3ET",
+    "state": "South West",
+    "country": "gb",
+    "time_zone": "Europe/London",
+    "coordinates": {
+      "latitude": 51.01084,
+      "longitude": -4.223208
+    },
+    "positioning": {
+      "what_3_words": "finest.images.artist"
+    },
+    "directions": {
+      "text": null
+    },
+    "categories": [
+      "FUEL_FORECOURT",
+      "BP"
+    ],
+    "facilities": [
+      "Cafe",
+      "Toilets",
+      "Shops"
+    ],
+    "opening_times": {
+      "twentyfourseven": false,
+      "regular_hours": [
+        {
+          "weekday": "MONDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "TUESDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "WEDNESDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "THURSDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "FRIDAY",
+          "period_begin": "07:00",
+          "period_end": "22:00"
+        },
+        {
+          "weekday": "SUNDAY",
+          "period_begin": "08:00",
+          "period_end": "22:00"
+        }
+      ]
+    },
+    "parking": {
+      "type": null,
+      "fee": "Report vehicle registration to reception"
+    },
+    "data_provider": {
+      "uuid": "325",
+      "country_code": "GB",
+      "party_id": "INC",
+      "name": "Instavolt via Chargepoint"
+    },
+    "operator": {
+      "uuid": "117",
+      "name": "InstaVolt",
+      "trading_name": null,
+      "legal_name": null,
+      "address": null,
+      "company_number": null,
+      "vat_registration_number": null,
+      "logo": "https://static.zap-map.io/images/YF1yw1kSvg8kNZ1an3iSdiMK1D5uPSFRfZkkC45b.png",
+      "banner": "https://static.zap-map.io/images/zv6e6gpAn1nA5SoJAksvnVwhNmaTa8uOHMXRAfE1.png",
+      "website": "http://instavolt.co.uk/",
+      "terms": null,
+      "support_telephone": "0808 281 4444",
+      "vat_rate": 0
+    },
+    "owner": {
+      "name": null,
+      "website": "http://instavolt.co.uk/",
+      "contact_name": null,
+      "email_address": null,
+      "telephone_number": "08082814444",
+      "controller_name": ""
+    },
+    "notes": "Charging station can be found on the right hand side of the petrol station forecourt.\nThis is a ChargePoint device. For terms and conditions please see https://www.chargepoint.com/legal/ and https://www.chargepoint.com/privacy/.\n",
+    "energy_mix": {
+      "is_green_energy": false
+    },
+    "devices": [
+      {
+        "uuid": "EV8512X",
+        "physical_reference": "230905",
+        "updated_at": "2024-05-22T14:01:14Z",
+        "payment_details": {
+          "is_free": false,
+          "pricing": "85p/kWh",
+          "subscription_details": "InstaVolt app",
+          "payment_methods": [
+            "CONTACTLESS",
+            "ALLSTAR_RFID"
+          ]
+        },
+        "parking": {
+          "is_taxi_only": false,
+          "physical_restrictions": "",
+          "access_restrictions": ""
+        },
+        "evses": [
+          {
+            "uuid": "5f83117e4e995c46cc7a25baf02de443",
+            "external_uid": "IV-230905-1",
+            "external_evse_id": "IV-230905-1",
+            "physical_reference": null,
+            "updated_at": "2023-04-14T11:23:35Z",
+            "connectors": [
+              {
+                "uuid": "7711f1f0c74d3431e926b20fde412ddd",
+                "updated_at": "2020-09-22T12:10:20Z",
+                "standard": "CHADEMO",
+                "format": null,
+                "power_type": "DC",
+                "max_voltage": 400,
+                "max_amperage": 125,
+                "max_electric_power": 50000,
+                "tariff_ids": []
+              },
+              {
+                "uuid": "9c3e423b089889310e14026bcd80407a",
+                "updated_at": "2023-06-21T16:13:56Z",
+                "standard": "IEC_62196_T2_COMBO",
+                "format": null,
+                "power_type": "DC",
+                "max_voltage": 400,
+                "max_amperage": 125,
+                "max_electric_power": 50000,
+                "tariff_ids": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "uuid": "USBO5YX",
+    "user_rating": 0,
+    "user_rating_count": null,
+    "updated_at": "2024-05-25T13:48:14Z",
+    "name": "Laggan Wolftrax Center Car Park",
+    "address": "7 Forestry Houses",
+    "city": "Laggan",
+    "postal_code": "PH20 1BU",
+    "state": "Scotland",
+    "country": "GB",
+    "time_zone": "Europe/London",
+    "coordinates": {
+      "latitude": 57.00041,
+      "longitude": -4.31716
+    },
+    "positioning": {
+      "what_3_words": "brink.directs.strut"
+    },
+    "directions": {
+      "text": null
+    },
+    "categories": [
+      "LEISURE",
+      "RECREATIONAL_PARK"
+    ],
+    "facilities": [],
+    "opening_times": {
+      "twentyfourseven": false,
+      "regular_hours": []
+    },
+    "parking": {
+      "type": null,
+      "fee": "Charges may apply"
+    },
+    "data_provider": {
+      "uuid": "18",
+      "country_code": "GB",
+      "party_id": "CPS",
+      "name": "ChargePlace Scotland via Swarco"
+    },
+    "operator": {
+      "uuid": "24",
+      "name": "ChargePlace Scotland",
+      "trading_name": null,
+      "legal_name": null,
+      "address": null,
+      "company_number": null,
+      "vat_registration_number": null,
+      "logo": "https://static.zap-map.io/images/kWVbXdkdQtADmTi3lnLQst8IVvmFIjLPez9ywuwL.png",
+      "banner": "https://static.zap-map.io/images/gsiMNPSzQcFzBMRfAWKEd9GZ8SuXYp0YAbmSWpDi.png",
+      "website": "http://chargeplacescotland.org",
+      "terms": null,
+      "support_telephone": "01416480750",
+      "vat_rate": 0
+    },
+    "owner": {
+      "name": null,
+      "website": "http://chargeplacescotland.org",
+      "contact_name": null,
+      "email_address": null,
+      "telephone_number": "01416480750",
+      "controller_name": ""
+    },
+    "notes": null,
+    "energy_mix": {
+      "is_green_energy": false
+    },
+    "devices": [
+      {
+        "uuid": "3GSVX1C",
+        "physical_reference": "50650",
+        "updated_at": "2024-05-25T13:48:14Z",
+        "payment_details": {
+          "is_free": false,
+          "pricing": "70p/kWh + an overstay penalty of £1.00 per minute, applies after 4 hours, with a 10-minute grace period.",
+          "subscription_details": "ChargePlace Scotland app or RFID card",
+          "payment_methods": [
+            "ALLSTAR_RFID"
+          ]
+        },
+        "parking": {
+          "is_taxi_only": false,
+          "physical_restrictions": "",
+          "access_restrictions": ""
+        },
+        "evses": [
+          {
+            "uuid": "f5811f49e6274286ad8f8af4e387a1bb",
+            "external_uid": "622928-2",
+            "external_evse_id": "622928-2",
+            "physical_reference": "622928",
+            "updated_at": "2022-09-27T11:00:19Z",
+            "connectors": [
+              {
+                "uuid": "a0864f11d73e4d9180654c82f4528c04",
+                "updated_at": "2023-02-20T10:40:38Z",
+                "standard": "IEC_62196_T2",
+                "format": null,
+                "power_type": "AC_3_PHASE",
+                "max_voltage": null,
+                "max_amperage": null,
+                "max_electric_power": 22000,
+                "tariff_ids": []
+              }
+            ]
+          },
+          {
+            "uuid": "f6f02ee3c37d4832ad2b3554d2981eaf",
+            "external_uid": "622928-1",
+            "external_evse_id": "622928-1",
+            "physical_reference": "622928",
+            "updated_at": "2022-09-27T11:00:18Z",
+            "connectors": [
+              {
+                "uuid": "02c002edd9464e4ea8335487e43fdc98",
+                "updated_at": "2023-02-20T10:40:20Z",
+                "standard": "IEC_62196_T2",
+                "format": null,
+                "power_type": "AC_3_PHASE",
+                "max_voltage": null,
+                "max_amperage": null,
+                "max_electric_power": 22000,
+                "tariff_ids": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
